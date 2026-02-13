@@ -19,7 +19,7 @@ I'm 23 years old, a computer engineering student, and this is my personal portfo
 </a>
 </p>
 <p>
-Draw a house plan, indicate the location, and predict its value based on a huge dataset of properties in Argentina.
+Draw a house plan in a SVG canvas, indicate the location, and predict its value based on a huge dataset of properties in Argentina.
 </p>
 </div>
 
@@ -35,7 +35,7 @@ Draw a house plan, indicate the location, and predict its value based on a huge 
 </a>
 </p>
 <p>
-A dashboard created from the analysis of over 72,000 properties extracted by an interval scraper from the Mercado Libre website. It includes graphs and dataset exploration.
+A dashboard created from the analysis of over 72,000 properties extracted by an interval scraper. It includes graphs and dataset exploration.
 </p>
 </div>
 
