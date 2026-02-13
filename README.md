@@ -2,6 +2,8 @@
 
 <img align = 'center' src='./images/banner_anime.jpeg' width = 100%>
 
+<br>
+
 I'm 23 years old, a computer engineering student, and this is my personal portfolio. It focuses on projects related to data extraction, processing, and analysis.
 
 <br>
