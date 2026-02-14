@@ -3,6 +3,7 @@
 <br>
 I'm 23 years old, a computer engineering student, and this is my personal portfolio. It focuses on projects related to data extraction, processing, and analysis.
 <br>
+
 ## Main projects
 <table>
 <tr>
@@ -35,6 +36,7 @@ A dashboard created from the analysis of over 72,000 properties extracted by an 
 </div>
 </td>
 </table>
+
 ## Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
