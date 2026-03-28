@@ -24,7 +24,7 @@ Draw a house plan in a SVG canvas, indicate the location, and predict its value 
 <td width="50%">
 <h3 align="center">Argentina Housing Dashboard</h3>
 <div align="center">
-<a href="https://github.com/hadron-lhc/argentina-housing-dashboard" target="_blank"><img src="./images/argentina_housing_dashboard.png" width="400" alt="Oikos"></a>
+<a href="https://github.com/hadron-lhc/argentina-housing-dashboard" target="_blank"><img src="./images/argentina_housing_dashboard.png" width="400" alt="Argentina Housing Dashboard"></a>
 <p>
 <a href="https://github.com/hadron-lhc/argentina-housing-dashboard" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -35,8 +35,38 @@ A dashboard created from the analysis of over 72,000 properties extracted by an 
 </p>
 </div>
 </td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Anamnesis</h3>
+<div align="center">
+<a href="https://github.com/hadron-lhc/anamnesis" target="_blank"><img src="./images/anamnesis.png" width="400" alt="Anamnesis"></a>
+<p>
+<a href="https://github.com/hadron-lhc/anamnesis" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+Clinical NLP platform that extracts medical entities from 4966 transcriptions, enables semantic search via ChromaDB embeddings, and answers clinical questions using RAG with Llama 3.3 70B.
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Newsense</h3>
+<div align="center">
+<a href="https://github.com/hadron-lhc/newsense" target="_blank"><img src="./images/newsense.png" width="400" alt="Newsense"></a>
+<p>
+<a href="https://github.com/hadron-lhc/newsense" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+Real-time news sentiment analyzer powered by RoBERTa. Fetches articles via NewsAPI, classifies sentiment using a fine-tuned transformer, and serves results through a FastAPI backend deployed on HuggingFace Spaces.
+</p>
+</div>
+</td>
+</tr>
 </table>
-
 ## Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
